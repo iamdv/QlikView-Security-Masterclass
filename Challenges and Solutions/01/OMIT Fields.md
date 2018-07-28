@@ -5,10 +5,12 @@ Use the **QlikView Security Masterclass zip** file which has the required QVW an
 
 Please note: You need to change the **vRootpath** variable in the QVW file to successfully reload the app.
 
-
-
+_________________
 
 ### Requirements:
+=================
+
+
 These are the sensitive fields in the data model:
 
 * Salary
@@ -17,7 +19,7 @@ These are the sensitive fields in the data model:
 * E-mail
 * Phone
 
-You need to hide these fields in the data model and also gracefully handle the frontend app (aka QVW) when the respective users open the app. There should not be a error message on the list boxes. 
+You need to hide these fields in the data model and also gracefully handle the frontend app (aka QVW) when the respective users open the app. There should not be **ANY** error message on the list boxes. 
 
 **Implement Section Access using the USERID and PASSWORD (Not NTNAME).**
 
