@@ -11,7 +11,7 @@ _________________
 =================
 
 
-These are the sensitive fields in the data model:
+These are the **sensitive fields** in the data model:
 
 * Salary
 * SSN
