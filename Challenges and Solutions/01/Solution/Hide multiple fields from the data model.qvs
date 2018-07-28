@@ -1,0 +1,32 @@
+/******************************
+SECTION ACCESS
+******************************/
+
+Section Access;
+LOAD * INLINE [
+    ACCESS, USERID, PASSWORD, OMIT
+    ADMIN, ADMIN, ADMIN, 
+    USER, USER1, USER1, Phone
+    USER, USER1, USER1, E-mail
+    USER, USER1, USER1, Salary
+    USER, USER1, USER1, SSN
+    USER, USER1, USER1, Birth Date         
+    USER, USER2, USER2, Phone
+    USER, USER2, USER2, E-mail
+    USER, USER2, USER2, Salary
+    USER, USER2, USER2, SSN
+    USER, USER2, USER2, Birth Date
+    USER, HR, HR, Phone
+    USER, HR, HR, E-mail
+    USER, HR, HR, SSN
+    USER, MANAGER, MANAGER, Phone
+    USER, MANAGER, MANAGER, E-mail
+    USER, MANAGER, MANAGER, SSN
+    USER, MANAGER, MANAGER, Birth Date
+    USER, MARKETING, MARKETING, Salary
+    USER, MARKETING, MARKETING, SSN
+    USER, MARKETING, MARKETING, Birth Date
+];
+Section Application;
+
+/******************************/
