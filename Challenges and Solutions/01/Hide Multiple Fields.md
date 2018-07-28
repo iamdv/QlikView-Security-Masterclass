@@ -21,7 +21,7 @@ These are the **sensitive fields** in the data model:
 
 You need to hide these fields in the data model and also gracefully handle the frontend app (aka QVW) when the respective users open the app. There should not be **ANY** error message on the list boxes. 
 
-**Implement Section Access using the USERID and PASSWORD (Not NTNAME).**
+**Implement Section Access using the USERID and PASSWORD (Not NTNAME). Feel free to use the INLINE load.**
 
 Here's the ACL:
 
