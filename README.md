@@ -69,7 +69,7 @@ In-depth QlikView Security Masterclass course available on Udemy. This course co
 * **Section: QMC Security**
   * Lecture: NTFS vs DMS Authorization
   * Lecture: QMC Deployment Steps
-  * Lecture: Loop and Reduce
+  
 
 * **Section: Certification Exam**
   * Lecture: About Certification Exam
