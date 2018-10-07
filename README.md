@@ -26,7 +26,9 @@ In-depth QlikView Security Masterclass course available on Udemy. This course co
   * Lecture: Section Access Basics - I
   * Lecture: Security Access Basics - II
   * Lecture: Must Know Document Settings!
-  * Lecture: App vs. Data Authorization  
+  * Lecture: App vs. Data Authorization
+  * Lecture: App Authorization with the Active Directory Users
+  * Lecture: App Authorization with the Active Directory Groups
   * Lecture: Challenge: Basic Section Access
   * Lecture: Solution: Basic Section Access
 
