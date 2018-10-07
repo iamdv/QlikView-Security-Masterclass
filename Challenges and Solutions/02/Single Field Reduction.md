@@ -14,6 +14,7 @@ _________________
 Following table is created using:
 
 Dimension: Supplier Name
+
 Measure: Sum([Order Amount])
 
 ![alt text](https://github.com/iamdv/QlikView-Security-Masterclass/blob/master/Assets/OrderAmount%20by%20Supplier.png "Order Amount by Supplier")
