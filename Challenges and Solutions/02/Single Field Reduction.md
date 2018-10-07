@@ -10,34 +10,18 @@ _________________
 
 ### Requirements:
 =================
+Following table is created using:
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+Dimension: Supplier Name
+Measure: Sum([Order Amount])
 
+![alt text](https://github.com/iamdv/QlikView-Security-Masterclass/blob/master/Assets/OrderAmount%20by%20Supplier.png "Order Amount by Supplier")
 
-These are the **sensitive fields** in the data model:
-
-* Salary
-* SSN
-* Birth Date
-* E-mail
-* Phone
-
-You need to hide these fields in the data model and also gracefully handle the frontend app (aka QVW) when the respective users open the app. There should not be **ANY** error message on the list boxes. 
+You need to a userid and password (test) for each supplier. So, suppliers can login with their respective and passwords to see the sales data. You should **NEVER** allow suppliers to view each other's sales information. This will be a security flaw!
 
 **Implement Section Access using the USERID and PASSWORD (Not NTNAME). Feel free to use the INLINE load.**
 
-Here's the ACL:
-
-| User Name     | What are they allowed to see|
-| ------------- |:-------------:| 
-| user1    | None | 
-| user2     | None      | 
-| hr | Salary and Birth Date      | 
-| manager | Salary    | 
-| marketing | E-mail and Phone     | 
-| admin | everything      | 
-
-**All other fields which are classified as non-senstivie can be shown to all the users.**
+**Make sure the administrator account [APPADMIN] has access to all the data**
 
 
 **ALL-THE-BEST!**
