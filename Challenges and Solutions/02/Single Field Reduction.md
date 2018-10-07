@@ -19,7 +19,7 @@ Measure: Sum([Order Amount])
 
 ![alt text](https://github.com/iamdv/QlikView-Security-Masterclass/blob/master/Assets/OrderAmount%20by%20Supplier.png "Order Amount by Supplier")
 
-You need to a userid and password (test) for each supplier. So, suppliers can login with their respective and passwords to see the sales data. You should **NEVER** allow suppliers to view each other's sales information. This will be a security flaw!
+You need to use the USERID and PASSWORD (test) for each supplier. So, suppliers can login with their respective and passwords to see the sales data. You should **NEVER** allow suppliers to view each other's sales information. This will be a security flaw!
 
 **Implement Section Access using the USERID and PASSWORD (Not NTNAME). Feel free to use the INLINE load.**
 
