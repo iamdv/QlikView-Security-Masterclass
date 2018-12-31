@@ -41,7 +41,6 @@ In-depth QlikView Security Masterclass course available on Udemy. This course co
 
 
 * **Section: Multi Field Reduction**
-  * Lecture: Introduction to Mutex (Mutual Exclusion)
   * Lecture: Multiple Field Reduction
   * Lecture: Challenge: Multiple Field Reduction
   * Lecture: Solution: Multiple Field Reduction
