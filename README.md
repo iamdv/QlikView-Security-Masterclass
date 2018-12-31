@@ -1,6 +1,8 @@
 # Become Awesome QlikView Developer by Mastering QlikView Security!
 
-In-depth QlikView Security Masterclass course available on Udemy. This course cover everything you need to know about QlikView - both client side (Section Access) and the server side. We also provide challenges and solutions for you to solve. As a bonus lecture, we will show you install and setup QlikView Server November 2017.
+In-depth QlikView Security Masterclass course available on Udemy. This course cover everything you need to know about QlikView - both client side (Section Access) and the server side. We also provide challenges and solutions for you to solve. 
+
+**As a bonus lecture, we will show you install and setup QlikView Server November 2017.**
 
 ### Course Contents
 
