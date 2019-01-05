@@ -44,6 +44,7 @@ In-depth QlikView Security Masterclass course available on Udemy. This course co
 
 * **Section: Multi Field Reduction**
   * Lecture: Multiple Field Reduction
+  * Lecture: Dealing with Incorrect Authorization Table
   * Lecture: Challenge: Multiple Field Reduction
   * Lecture: Solution: Multiple Field Reduction
 
