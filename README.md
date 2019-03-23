@@ -59,6 +59,7 @@ In-depth QlikView Security Masterclass course available on Udemy. This course co
   * Lecture: AD Objects: Users and Groups
   * Lecture: What is LDAP?
   * Lecture: ADUGLP Paradigm
+  * Lecture: What is SAML Authentication?
   * Lecture: What is Kerberos Authentication?
 
 
