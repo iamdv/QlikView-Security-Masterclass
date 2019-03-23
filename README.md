@@ -49,12 +49,6 @@ In-depth QlikView Security Masterclass course available on Udemy. This course co
   * Lecture: Solution: Multiple Field Reduction
 
 
-* **Section: Hierarchy Based Section Access**
-  * Lecture: Hierarchy Based Section Access
-  * Lecture: Generic Keys
-  * Lecture: Section Access with Generic Keys
-
-
 * **Section: Impersonation and Testing Section Access**
   * Lecture: Impersonation
   * Lecture: Testing Section Access
